@@ -11,3 +11,4 @@ Step 4 : Copy and Paste the code in Homework 1-1 into Playground.
 
 Step 5 : Run your homework in playground 
 
+https://github.com/NEXTAcademi/Homework-1-1/blob/main/playground.png
