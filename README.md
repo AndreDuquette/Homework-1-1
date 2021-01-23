@@ -19,5 +19,5 @@ Step 5 : Run your homework in playground
 Step 6 : When it runs without errors copy and paste your code to Functions.swift file
 
 <p align="left">
-  <img src="./playground.png" width="350" title="hover text">
+  <img src="./commit.png" width="350" title="hover text">
 </p>
