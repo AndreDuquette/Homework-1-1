@@ -7,6 +7,9 @@ Step 2 : Download My Playground
 
 Step 3 : Make sure the Swift Version is 5.3 or Higer in the My Playground Blank App.
 
+![Alt text](./playground.png?raw=true "Title")
+
+
 Step 4 : Copy and Paste the code in Homework 1-1 into Playground.
 
 Step 5 : Run your homework in playground 
