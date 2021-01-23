@@ -16,7 +16,7 @@ Step 4 : Copy and Paste the code in Homework 1-1 into Playground.
 
 Step 5 : Run your homework in playground 
 
-Step 6 : When it runs without errors copy and paste your code to Functions.swift file
+Step 6 : When it runs without errors copy and paste your code to Functions.swift file and hit commit to save.
 
 <p align="left">
   <img src="./commit.png" width="350" title="hover text">
