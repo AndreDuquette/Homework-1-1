@@ -7,7 +7,10 @@ Step 2 : Download My Playground
 
 Step 3 : Make sure the Swift Version is 5.3 or Higer in the My Playground Blank App.
 
-![Alt text](./playground.png?raw=true "Title")
+<p align="left">
+  <img src="./playground.png" width="350" title="hover text">
+  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+</p>
 
 
 Step 4 : Copy and Paste the code in Homework 1-1 into Playground.
