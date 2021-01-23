@@ -8,11 +8,10 @@ Inside each function create a print("something") statement to print the action.
 Call each of your functions and run your code.
  ------------------------------------------------ */
 
-/*
- Example 
+
+ //Example 
  func wakeUp(){ 
- print("Wake up at 7 am")
+   print("Wake up at 7 am")
  }
- 
- wakeUp()       This will print "Wake up at 7 am"
- */
+
+ wakeUp()       // This will print "Wake up at 7 am"
